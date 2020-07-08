@@ -108,6 +108,8 @@ Air pressure and temperature  seasonal dist show similar behaviour accoring to p
 
 ![img](https://github.com/nibukdk/Weather-Data-Brazil/blob/master/Imgs/Air%20Pressure%20by%20city.png)
 
+City *Maneta* is the only one with air pressure in the upper range around the year, while *Vicosa's* in the middle range and other 3 are in lower range.
+
 ## Correlatons
 
 ### Whold Data Corr
