@@ -128,4 +128,4 @@ It appears aspects wind-speeds have very low correlatoin with humidity. Windspee
 
 ![img](https://github.com/nibukdk/Weather-Data-Brazil/blob/master/Imgs/Windspped%20vs%20Humidty%20Density%20Plot.png)
 
-The plot is denser on the left and botteom. So, it seems wind-speed and humidity are reversely proportional to each other. Increase in wind-speed causes decrease in humidity. Also the humidity is right skewed data.
+The plot is denser on the left and botteom. So, it seems wind-speed and humidity are reversely proportional to each other. Increase in wind-speed causes decrease in humidity. Also both appear right skewed after normalizing.
